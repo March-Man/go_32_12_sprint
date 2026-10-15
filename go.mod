@@ -1,6 +1,6 @@
 module github.com/March-Man/go_32_12_sprint
 
-go 1.26.0
+go 1.23
 
 require (
 	github.com/stretchr/testify v1.12.1
